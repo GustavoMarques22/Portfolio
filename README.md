@@ -28,7 +28,7 @@ Este é meu site pessoal onde apresento meus serviços como **Desenvolvedor Fron
 ## 🌐 Links Importantes
 
 * 🔗 [Instagram - @gutosantosx](https://www.instagram.com/gutosantosx)
-* 🔗 [LinkedIn - GustavoMarques](https://www.linkedin.com/in/gustavo-marques-5a3723294/)
+* 🔗 [GitHub - GustavoMarques22](https://github.com/GustavoMarques22)
 
 ## 🚀 Como visualizar o projeto
 
