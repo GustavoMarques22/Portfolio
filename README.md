@@ -8,7 +8,7 @@
 
 Este é meu site pessoal onde apresento meus serviços como **Desenvolvedor Front-end** e compartilho links importantes para contato e redes sociais.
 
-![Imagem do Portfólio](/Portfólio/Portfolio.png/)
+![Imagem do Portfólio](Portfólio/Portfolio.png/)
 
 ## 💻 Tecnologias utilizadas
 
